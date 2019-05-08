@@ -5,7 +5,7 @@
     <link>https://mgei.github.io/</link>
     <description>Recent content in Home on mgei.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 22 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mgei.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -38,6 +38,26 @@ Heading 3 Yet another, but centered! Excepteur sint occaecat cupidatat non proid
       <guid>https://mgei.github.io/about/</guid>
       <description>This site The goal is to consolidate the content that I have published on my Youtube channel, RPubs, Github, my company&amp;rsquo;s website, as well as non-confidential material from on my own work. The main purpose is to have an archive ready as a personal reference, i.e. myself looking things up. Maybe it also helps others.
 Me My name is Martin Geissmann. I studied economics in Basel and Zurich before my professional track led me to healthcare management.</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://mgei.github.io/post/hello-world/</link>
+      <pubDate>Wed, 08 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mgei.github.io/post/hello-world/</guid>
+      <description>Hello Page</description>
+    </item>
+    
+    <item>
+      <title>How I made this Github page</title>
+      <link>https://mgei.github.io/post/github-page/</link>
+      <pubDate>Wed, 08 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mgei.github.io/post/github-page/</guid>
+      <description>R / Blogdown / Hugo The website you are looking at is made with R and blogdown. Blogdown allows to use the static website generator Hugo with R Markdown documents (*.Rmd) instead of only pure markdown (*.md). So one can easily integrate R code which is rendered like a HTML R Markdown document.
+The theme used here is Minimo.
+ Github pages This website hosted on Github. It’s open source, the code is available here.</description>
     </item>
     
     <item>

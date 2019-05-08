@@ -5,7 +5,7 @@
     <link>https://mgei.github.io/tags/</link>
     <description>Recent content in Tags on mgei.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 22 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mgei.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,9 +13,54 @@
     <item>
       <title>R</title>
       <link>https://mgei.github.io/tags/r/</link>
-      <pubDate>Mon, 22 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 08 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://mgei.github.io/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blogdown</title>
+      <link>https://mgei.github.io/tags/blogdown/</link>
+      <pubDate>Wed, 08 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mgei.github.io/tags/blogdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github-page</title>
+      <link>https://mgei.github.io/tags/github-page/</link>
+      <pubDate>Wed, 08 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mgei.github.io/tags/github-page/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://mgei.github.io/tags/hugo/</link>
+      <pubDate>Wed, 08 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mgei.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>misc</title>
+      <link>https://mgei.github.io/tags/misc/</link>
+      <pubDate>Wed, 08 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mgei.github.io/tags/misc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>page</title>
+      <link>https://mgei.github.io/tags/page/</link>
+      <pubDate>Wed, 08 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mgei.github.io/tags/page/</guid>
       <description></description>
     </item>
     
