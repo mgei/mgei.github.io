@@ -9,20 +9,21 @@
 <meta property='og:title' content='How far to the closest hospital? • Martin Geissmann'>
 <meta property='og:description' content='Originally published on RPubs: http://rpubs.com/mgei/drivingtimes
  Intro Imagine you just fell out of a plane over Switzerland and landed at a random location. As you are wounded your number one concern it to get to a hospital asap. Not any hospital but one that has an emergency room and is equipped at least with a CT to check for fractures.'>
-<meta property='og:url' content='/post/drivingtimes/'>
+<meta property='og:url' content='https://mgei.github.io/post/drivingtimes/'>
 <meta property='og:site_name' content='mgei.github.io'>
 <meta property='og:type' content='article'><meta property='og:image' content='https://www.gravatar.com/avatar/a525a84fae399669fa8861e2661df00b?s=256'><meta property='article:section' content='post'><meta property='article:tag' content='OSRM'><meta property='article:tag' content='leaflet'><meta property='article:tag' content='ggmap'><meta property='article:tag' content='R'><meta property='article:tag' content='hospitals'><meta property='article:tag' content='Switzerland'><meta property='article:tag' content='spatial'><meta property='article:published_time' content='2019-03-27T00:00:00Z'/><meta property='article:modified_time' content='2019-03-27T00:00:00Z'/><meta name='twitter:card' content='summary'>
 
 <meta name="generator" content="Hugo 0.55.5" />
 
   <title>How far to the closest hospital? • Martin Geissmann</title>
-  <link rel='canonical' href='/post/drivingtimes/'>
+  <link rel='canonical' href='https://mgei.github.io/post/drivingtimes/'>
   
   
   <link rel='icon' href='/favicon.ico'>
 <link rel='stylesheet' href='/assets/css/main.fb20af92.css'><link rel='stylesheet' href='/css/custom.css'><style>
 :root{--color-accent:#369b6c;}
 </style>
+
   
 
 </head>
@@ -36,7 +37,7 @@
     
     <div class='logo'>
       <a href='/'>
-        <img src='/images/logo.png' style='border-radius: 50%;'>
+        <img src='/images/logo.png'>
       </a>
     </div>
     
@@ -53,11 +54,20 @@
 </section>
 <section class='widget widget-sidebar_menu sep-after'><nav id='sidebar-menu' class='menu sidebar-menu' aria-label='Sidebar Menu'>
     <div class='container'>
-      <ul><li class='item'>
+      <ul><li class='item has-children'>
+  <a href='/docs/'>Docs</a><button class='sub-menu-toggler'>
+    <span class='screen-reader-text'>expand sub menu</span>
+    <span class='sign'></span>
+  </button>
+
+  <ul class='sub-menu'><li class='item'>
+  <a href='/docs/menus/'>Menus</a></li><li class='item'>
+  <a href='/docs/widgets/'>Widgets</a></li></ul></li><li class='item'>
   <a href='/'>Home</a></li><li class='item'>
   <a href='/post/'>Archive</a></li><li class='item'>
   <a href='/search/'>Search</a></li><li class='item'>
-  <a href='/about/'>About</a></li></ul>
+  <a href='/about/'>About</a></li><li class='item'>
+  <a href='/docs/sidebar/'>Sidebar</a></li></ul>
     </div>
   </nav>
 
@@ -68,17 +78,25 @@
 
   <div class='container list-container'>
   <ul class='list taxonomy-cloud'><li>
-        <a href='/tags/blogdown/' style='font-size:1em'>blogdown</a>
+        <a href='/tags/algolia/' style='font-size:1em'>algolia</a>
+      </li><li>
+        <a href='/tags/authors/' style='font-size:1em'>authors</a>
+      </li><li>
+        <a href='/tags/chroma/' style='font-size:1em'>chroma</a>
+      </li><li>
+        <a href='/tags/config/' style='font-size:2em'>Configuration</a>
+      </li><li>
+        <a href='/tags/fuse.js/' style='font-size:1em'>fuse.js</a>
       </li><li>
         <a href='/tags/ggmap/' style='font-size:1em'>ggmap</a>
       </li><li>
         <a href='/tags/ggplot/' style='font-size:1em'>ggplot</a>
       </li><li>
-        <a href='/tags/github-page/' style='font-size:1em'>github-page</a>
-      </li><li>
         <a href='/tags/hospitals/' style='font-size:1em'>hospitals</a>
       </li><li>
-        <a href='/tags/hugo/' style='font-size:1em'>hugo</a>
+        <a href='/tags/i18n/' style='font-size:1em'>i18n</a>
+      </li><li>
+        <a href='/tags/katex/' style='font-size:1em'>katex</a>
       </li><li>
         <a href='/tags/lawyers/' style='font-size:1em'>lawyers</a>
       </li><li>
@@ -86,23 +104,31 @@
       </li><li>
         <a href='/tags/linear-model/' style='font-size:1em'>linear model</a>
       </li><li>
-        <a href='/tags/md/' style='font-size:1em'>md</a>
+        <a href='/tags/lunr.js/' style='font-size:1em'>lunr.js</a>
       </li><li>
-        <a href='/tags/misc/' style='font-size:1em'>misc</a>
+        <a href='/tags/menus/' style='font-size:1em'>menus</a>
+      </li><li>
+        <a href='/tags/og/' style='font-size:1em'>Opengraph</a>
       </li><li>
         <a href='/tags/osrm/' style='font-size:1em'>OSRM</a>
       </li><li>
-        <a href='/tags/page/' style='font-size:1em'>page</a>
+        <a href='/tags/pygments/' style='font-size:1em'>pygments</a>
       </li><li>
-        <a href='/tags/r/' style='font-size:2em'>R</a>
+        <a href='/tags/r/' style='font-size:1.1666666666666667em'>R</a>
       </li><li>
-        <a href='/tags/spatial/' style='font-size:1.5em'>spatial</a>
+        <a href='/tags/search/' style='font-size:1.5em'>search</a>
+      </li><li>
+        <a href='/tags/shortcode/' style='font-size:1em'>shortcode</a>
+      </li><li>
+        <a href='/tags/spatial/' style='font-size:1.1666666666666667em'>spatial</a>
       </li><li>
         <a href='/tags/statistics/' style='font-size:1em'>statistics</a>
       </li><li>
         <a href='/tags/switzerland/' style='font-size:1em'>Switzerland</a>
       </li><li>
-        <a href='/tags/syntax/' style='font-size:1em'>syntax</a>
+        <a href='/tags/translation/' style='font-size:1em'>translation</a>
+      </li><li>
+        <a href='/tags/widgets/' style='font-size:1em'>widgets</a>
       </li></ul>
 </div>
 
@@ -745,10 +771,6 @@ finalmap</code></pre>
   </div><script>window.__assets_js_src="/assets/js/"</script>
 
 <script src='/assets/js/main.9e5c4cf4.js'></script><script src='/js/custom.js'></script>
-<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css">
-<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/r.min.js"></script>
-<script>hljs.initHighlightingOnLoad();</script>
 
 </body>
 

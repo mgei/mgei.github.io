@@ -1,108 +1,11 @@
-<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on mgei.github.io</title>
-    <link>/</link>
+    <link>https://mgei.github.io/</link>
     <description>Recent content in Home on mgei.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 09 May 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Search</title>
-      <link>/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/search/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>This site The goal is to consolidate the content that I have published on my Youtube channel, RPubs, Github, my company&amp;rsquo;s website, as well as non-confidential material from on my own work. The main purpose is to have an archive ready as a personal reference, i.e. myself looking things up. Maybe it also helps others.
-Me My name is Martin Geissmann. I studied economics in Basel and Zurich before my professional track led me to healthcare management.</description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>/post/hello-world/</link>
-      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/hello-world/</guid>
-      <description>Hello Page</description>
-    </item>
-    
-    <item>
-      <title>How I made this Github page</title>
-      <link>/post/github-page/</link>
-      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/github-page/</guid>
-      <description>R / Blogdown / Hugo The website you are looking at is made with R and blogdown. Blogdown allows to use the static website generator Hugo with R Markdown documents (*.Rmd) instead of only pure markdown (*.md). So one can easily integrate R code which is rendered like a HTML R Markdown document.
-The theme used here is Minimo.
- Github pages This website hosted on Github. It’s open source, the code is available here.</description>
-    </item>
-    
-    <item>
-      <title>Syntax testing</title>
-      <link>/post/syntaxtest/</link>
-      <pubDate>Wed, 08 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/syntaxtest/</guid>
-      <description>test Syntax test
-library(dplyr) ## ## Attaching package: &amp;#39;dplyr&amp;#39; ## The following objects are masked from &amp;#39;package:stats&amp;#39;: ## ## filter, lag ## The following objects are masked from &amp;#39;package:base&amp;#39;: ## ## intersect, setdiff, setequal, union # compute averages mtcars %&amp;gt;% group_by(cyl) %&amp;gt;% summarise(avg_mpg = mean(mpg, na.rm = T)) ## # A tibble: 3 x 2 ## cyl avg_mpg ## &amp;lt;dbl&amp;gt; &amp;lt;dbl&amp;gt; ## 1 4 26.7 ## 2 6 19.7 ## 3 8 15.</description>
-    </item>
-    
-    <item>
-      <title>pure md</title>
-      <link>/post/md-doc/</link>
-      <pubDate>Wed, 08 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/md-doc/</guid>
-      <description>Hello World
-See google or not</description>
-    </item>
-    
-    <item>
-      <title>Analyzing the Swiss cantons with more lawyers than medical doctors</title>
-      <link>/post/lawyer-physicians/</link>
-      <pubDate>Mon, 22 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/lawyer-physicians/</guid>
-      <description>Originally published on RPubs: http://rpubs.com/mgei/lawyers
- Intro In 2017 Switzerland had 18’858 free physician working in individual doctor’s offices (Aerzte mit Praxistätigkeit as opposed to doctors employed by hospitals). Also Switzerland currently has 12’967 registered lawyers.1 Relative to the number of inhabitants of nearly 8.5 million (2017), that’s on average 2.2 physicians and 1.5 lawyers per 1’000 inhabitants.
-As we will see, in four cantons lawyers outnumber physicians.</description>
-    </item>
-    
-    <item>
-      <title>How far to the closest hospital?</title>
-      <link>/post/drivingtimes/</link>
-      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/drivingtimes/</guid>
-      <description>Originally published on RPubs: http://rpubs.com/mgei/drivingtimes
- Intro Imagine you just fell out of a plane over Switzerland and landed at a random location. As you are wounded your number one concern it to get to a hospital asap. Not any hospital but one that has an emergency room and is equipped at least with a CT to check for fractures.</description>
-    </item>
-    
-  </channel>
-</rss>
-||||||| merged common ancestors
-=======
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Home on mgei&#39;s Github Page</title>
-    <link>https://mgei.github.io/</link>
-    <description>Recent content in Home on mgei&#39;s Github Page</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 12 Aug 2018 12:30:00 +0600</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mgei.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -119,13 +22,43 @@ Heading 3 Yet another, but centered! Excepteur sint occaecat cupidatat non proid
     </item>
     
     <item>
+      <title>Search</title>
+      <link>https://mgei.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mgei.github.io/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://mgei.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mgei.github.io/about/</guid>
-      <description>About this site The goal is to accumulate the content that I currently have spread out on my Youtube channel, RPubs, Github, my company website, and on my own system (and is non-confidential). The website is to serve as a reference for myself primary. Maybe it also helps others.
-About me Hello, my name is Martin Geissmann. I studied economics in Basel and Zurich before starting to work in healthcare management.</description>
+      <description>This site The goal is to consolidate the content that I have published on my Youtube channel, RPubs, Github, my company&amp;rsquo;s website, as well as non-confidential material from on my own work. The main purpose is to have an archive ready as a personal reference, i.e. myself looking things up. Maybe it also helps others.
+Me My name is Martin Geissmann. I studied economics in Basel and Zurich before my professional track led me to healthcare management.</description>
+    </item>
+    
+    <item>
+      <title>Analyzing the Swiss cantons with more lawyers than medical doctors</title>
+      <link>https://mgei.github.io/post/lawyer-physicians/</link>
+      <pubDate>Mon, 22 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mgei.github.io/post/lawyer-physicians/</guid>
+      <description>Originally published on RPubs: http://rpubs.com/mgei/lawyers
+ Intro In 2017 Switzerland had 18’858 free physician working in individual doctor’s offices (Aerzte mit Praxistätigkeit as opposed to doctors employed by hospitals). Also Switzerland currently has 12’967 registered lawyers.1 Relative to the number of inhabitants of nearly 8.5 million (2017), that’s on average 2.2 physicians and 1.5 lawyers per 1’000 inhabitants.
+As we will see, in four cantons lawyers outnumber physicians.</description>
+    </item>
+    
+    <item>
+      <title>How far to the closest hospital?</title>
+      <link>https://mgei.github.io/post/drivingtimes/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mgei.github.io/post/drivingtimes/</guid>
+      <description>Originally published on RPubs: http://rpubs.com/mgei/drivingtimes
+ Intro Imagine you just fell out of a plane over Switzerland and landed at a random location. As you are wounded your number one concern it to get to a hospital asap. Not any hospital but one that has an emergency room and is equipped at least with a CT to check for fractures.</description>
     </item>
     
     <item>
@@ -341,7 +274,7 @@ id = &amp;#34;muniftanjim&amp;#34; [email] username = &amp;#34;muniftanjim&amp;#
       
       <guid>https://mgei.github.io/docs/config-file/</guid>
       <description>This is the Minimo&amp;rsquo;s configuration file ( config.toml ) file of this site:
-baseURL = &amp;#34;https://mgei.github.io&amp;#34; title = &amp;#34;mgei&amp;#39;s Github Page&amp;#34; # for smart copyright line, leave this blank and check [params.copyright] copyright = &amp;#34;&amp;#34; ignoreFiles = [ &amp;#34;\\.foo$&amp;#34;, &amp;#34;\\.boo$&amp;#34; ] theme = &amp;#34;minimo&amp;#34; disqusShortname = &amp;#34;&amp;#34; googleAnalytics = &amp;#34;&amp;#34; Paginate = 5 preserveTaxonomyNames = true enableRobotsTXT = true # generate robots.txt # Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ ) pygmentsCodefences = true enableEmoji = false # Missing translations will default to this content language defaultContentLanguage = &amp;#34;en&amp;#34; [params.</description>
+baseURL = &amp;#34;https://mgei.github.io&amp;#34; title = &amp;#34;mgei.github.io&amp;#34; # for smart copyright line, leave this blank and check [params.copyright] copyright = &amp;#34;&amp;#34; ignoreFiles = [&amp;#34;\\.foo$&amp;#34;, &amp;#34;\\.boo$&amp;#34;] theme = &amp;#34;minimo&amp;#34; disqusShortname = &amp;#34;&amp;#34; googleAnalytics = &amp;#34;&amp;#34; Paginate = 5 preserveTaxonomyNames = true enableRobotsTXT = true # generate robots.txt # Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ ) pygmentsCodefences = true enableEmoji = false # Missing translations will default to this content language defaultContentLanguage = &amp;#34;en&amp;#34; [params.</description>
     </item>
     
     <item>
@@ -368,26 +301,5 @@ Installing Minimo There are two different ways you can install Minimo:
 Install Minimo as clone With this method, you will simply clone it. And a copy of Minimo&amp;rsquo;s repository will be stored with the rest of you site.</description>
     </item>
     
-    <item>
-      <title>Hello R Markdown</title>
-      <link>https://mgei.github.io/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>https://mgei.github.io/post/2015-07-23-r-rmarkdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
-    </item>
-    
-    <item>
-      <title>Search</title>
-      <link>https://mgei.github.io/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mgei.github.io/search/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
->>>>>>> 4c60c5299ef896d84aa63d7c1e9e3287d16c2e42
