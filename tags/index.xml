@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on mgei.github.io</title>
     <link>https://mgei.github.io/tags/</link>
     <description>Recent content in Tags on mgei.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 13 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mgei.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,7 +13,7 @@
     <item>
       <title>R</title>
       <link>https://mgei.github.io/tags/r/</link>
-      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://mgei.github.io/tags/r/</guid>
       <description></description>
@@ -22,7 +22,7 @@
     <item>
       <title>shiny</title>
       <link>https://mgei.github.io/tags/shiny/</link>
-      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://mgei.github.io/tags/shiny/</guid>
       <description></description>
@@ -119,6 +119,15 @@
     </item>
     
     <item>
+      <title>ggplot</title>
+      <link>https://mgei.github.io/tags/ggplot/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mgei.github.io/tags/ggplot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ggplot2</title>
       <link>https://mgei.github.io/tags/ggplot2/</link>
       <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
@@ -191,15 +200,6 @@
     </item>
     
     <item>
-      <title>USA</title>
-      <link>https://mgei.github.io/tags/usa/</link>
-      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://mgei.github.io/tags/usa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>comtradr</title>
       <link>https://mgei.github.io/tags/comtradr/</link>
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
@@ -214,6 +214,15 @@
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://mgei.github.io/tags/economics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>USA</title>
+      <link>https://mgei.github.io/tags/usa/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mgei.github.io/tags/usa/</guid>
       <description></description>
     </item>
     
@@ -263,15 +272,6 @@
     </item>
     
     <item>
-      <title>PCA</title>
-      <link>https://mgei.github.io/tags/pca/</link>
-      <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://mgei.github.io/tags/pca/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>linear model</title>
       <link>https://mgei.github.io/tags/linear-model/</link>
       <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
@@ -281,20 +281,11 @@
     </item>
     
     <item>
-      <title>Youtube</title>
-      <link>https://mgei.github.io/tags/youtube/</link>
-      <pubDate>Mon, 22 Apr 2019 00:00:00 +0000</pubDate>
+      <title>PCA</title>
+      <link>https://mgei.github.io/tags/pca/</link>
+      <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mgei.github.io/tags/youtube/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ggplot</title>
-      <link>https://mgei.github.io/tags/ggplot/</link>
-      <pubDate>Mon, 22 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://mgei.github.io/tags/ggplot/</guid>
+      <guid>https://mgei.github.io/tags/pca/</guid>
       <description></description>
     </item>
     
@@ -335,6 +326,15 @@
     </item>
     
     <item>
+      <title>Youtube</title>
+      <link>https://mgei.github.io/tags/youtube/</link>
+      <pubDate>Mon, 22 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mgei.github.io/tags/youtube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Econovo</title>
       <link>https://mgei.github.io/tags/econovo/</link>
       <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
@@ -344,20 +344,20 @@
     </item>
     
     <item>
-      <title>Switzerland</title>
-      <link>https://mgei.github.io/tags/switzerland/</link>
-      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://mgei.github.io/tags/switzerland/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>healthcare</title>
       <link>https://mgei.github.io/tags/healthcare/</link>
       <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://mgei.github.io/tags/healthcare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Switzerland</title>
+      <link>https://mgei.github.io/tags/switzerland/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mgei.github.io/tags/switzerland/</guid>
       <description></description>
     </item>
     
@@ -376,15 +376,6 @@
       <pubDate>Fri, 12 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://mgei.github.io/tags/feather-format/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>OSRM</title>
-      <link>https://mgei.github.io/tags/osrm/</link>
-      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://mgei.github.io/tags/osrm/</guid>
       <description></description>
     </item>
     
@@ -412,6 +403,15 @@
       <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://mgei.github.io/tags/leaflet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OSRM</title>
+      <link>https://mgei.github.io/tags/osrm/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mgei.github.io/tags/osrm/</guid>
       <description></description>
     </item>
     
@@ -515,15 +515,6 @@
     </item>
     
     <item>
-      <title>Tarmed</title>
-      <link>https://mgei.github.io/tags/tarmed/</link>
-      <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://mgei.github.io/tags/tarmed/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>mock data</title>
       <link>https://mgei.github.io/tags/mock-data/</link>
       <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
@@ -547,6 +538,15 @@
       <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://mgei.github.io/tags/tariffs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tarmed</title>
+      <link>https://mgei.github.io/tags/tarmed/</link>
+      <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mgei.github.io/tags/tarmed/</guid>
       <description></description>
     </item>
     

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Switzerland on mgei.github.io</title>
@@ -39,7 +39,7 @@
       <description>Originally published on Github: https://github.com/mgei/swiss-hospitals-classification
  R Shiny app for cluster analysis A simple R Shiny app to classify Swiss hospitals according to their DRG positions using clustering and wordclouds.
 The app is also live for trying here: http://swiss-hospitals-classification.econovo.io/
- Data We use data from the Swiss Federal Office of Public Health (BAG), i.e. data from the DRG Fallzahlensuche. We have the following script to scrape data from http://www.</description>
+Data We use data from the Swiss Federal Office of Public Health (BAG), i.e. data from the DRG Fallzahlensuche. We have the following script to scrape data from http://www.drg-fallzahlsuche.admin.ch</description>
     </item>
     
     <item>

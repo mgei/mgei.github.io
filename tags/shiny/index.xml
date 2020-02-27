@@ -1,14 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>shiny on mgei.github.io</title>
     <link>https://mgei.github.io/tags/shiny/</link>
     <description>Recent content in shiny on mgei.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 13 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mgei.github.io/tags/shiny/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Simple user input storage in a Shiny app</title>
+      <link>https://mgei.github.io/post/shiny-user-input/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mgei.github.io/post/shiny-user-input/</guid>
+      <description>Persistent data storage library(shiny) library(shinyWidgets) library(tidyverse) # read persistent data or create a new file if it does not exist yet if (&amp;quot;favs.csv&amp;quot; %in% list.files()) { favs &amp;lt;- read_file(&amp;quot;favs.csv&amp;quot;) %&amp;gt;% strsplit(&amp;quot;, &amp;quot;) %&amp;gt;% .[[1]] %&amp;gt;% as.numeric() %&amp;gt;% .[-1] } else { favs &amp;lt;- 99 paste(favs, collapse = &amp;quot;, &amp;quot;) %&amp;gt;% write_file(&amp;quot;favs.csv&amp;quot;) favs &amp;lt;- favs[-1] } ui &amp;lt;- fluidPage( radioGroupButtons( inputId = &amp;quot;fav_number&amp;quot;, label = &amp;quot;What&amp;#39;s your favorite number?&amp;quot;, choices = 1:9 ), circleButton(&amp;quot;button_go&amp;quot;, &amp;quot;Go!</description>
+    </item>
     
     <item>
       <title>Shinydashboard with dynamic menu items and content</title>
@@ -40,7 +49,7 @@ Screenshot
       <description>Originally published on Github: https://github.com/mgei/swiss-hospitals-classification
  R Shiny app for cluster analysis A simple R Shiny app to classify Swiss hospitals according to their DRG positions using clustering and wordclouds.
 The app is also live for trying here: http://swiss-hospitals-classification.econovo.io/
- Data We use data from the Swiss Federal Office of Public Health (BAG), i.e. data from the DRG Fallzahlensuche. We have the following script to scrape data from http://www.</description>
+Data We use data from the Swiss Federal Office of Public Health (BAG), i.e. data from the DRG Fallzahlensuche. We have the following script to scrape data from http://www.drg-fallzahlsuche.admin.ch</description>
     </item>
     
   </channel>
