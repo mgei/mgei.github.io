@@ -1,9 +1,0 @@
----
-slug: "econovo-welcome"
-date: "2018-11-21"
-title: "My company Econovo - new website"
-tags: ["Econovo", "website"]
-authors: [mgei]
----
-  
-> Published here: https://www.econovo.ch/en/2018/11/21/welcome-from-econovo/

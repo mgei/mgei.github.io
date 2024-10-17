@@ -1,9 +1,0 @@
----
-slug: "econovo-tarifentwicklung-radiologie"
-date: "2019-01-14"
-title: "(de) Tarifentwicklung und Abrechnung in der Radiologie"
-tags: ["tariffs", "due diligence", "healthcare", "radiology", "Econovo", "Tarmed"]
-authors: [mgei]
----
-
-> Published here: https://www.econovo.ch/en/2019/01/14/tarifentwicklung-radiologie/
